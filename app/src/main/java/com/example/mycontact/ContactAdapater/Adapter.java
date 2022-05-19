@@ -49,7 +49,6 @@ public class Adapter extends RecyclerView.Adapter<myViewHolder> {
             @Override
             public void onClick(View view) {
 
-
                 listener.onclickListener();
 
             }
